@@ -12,6 +12,8 @@ https://www.cnblogs.com/br170525/p/8284183.html
 
 https://github.com/jetsonhacks/buildJetsonTX2Kernel/releases
 
+https://www.ncnynl.com/archives/201706/1752.html
+
 the version kernel source flashed to tx2 must be corresponding to usb driver
 
 3. update pip install source
